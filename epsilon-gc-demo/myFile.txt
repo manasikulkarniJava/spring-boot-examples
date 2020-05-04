@@ -1,0 +1,7 @@
+abcdefghijklmnopqrstuvwxyz
+pune
+mumbai
+delhi
+List to Array example in Java 11:
+[Pune, Mumbai, Delhi, Kolkata, Bengaluru, Chennai, Hyderabad]
+[Pune, Mumbai, Delhi, Kolkata, Bengaluru, Chennai, Hyderabad]
